@@ -8,6 +8,6 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7207358e-d454-4017-8002-0ed0cda3c896" width="40%">
+  <img src="https://github.com/user-attachments/assets/7207358e-d454-4017-8002-0ed0cda3c896" width="60%">
   <br><sub>Warren Buffett's investing rules</sub>
 </p>
